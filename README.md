@@ -32,6 +32,6 @@ The following package versions were used in developing and running the code. Fig
 
 ## Notice
 
-The purpose of this repo is to provide some depth behind the paper. It's not production ready. Feel free to fork/fix etc, but I won't be actively maintaining/developing/updating this repo.
+The purpose of this repo is to provide some depth behind the paper. It's not production ready. Feel free to fork/fix etc, but I won't be actively maintaining/developing/updating this repo, nor responding to minor bugs.
 
 

@@ -5,6 +5,8 @@ Accompanying code for the paper:
 Structured Weight Priors for Convolutional Neural Networks  <br />
 Tim Pearce, Andrew Y. K. Foong, Alexandra Brintrup <br />
 ICML workshop, Uncertainty & Robustness in Deep Learning, 2020. <br />
+[http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-094.pdf](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-094.pdf)
+
 
 <img width="600" src="struc_conv_gab_filters.png">
 
